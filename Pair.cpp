@@ -25,4 +25,5 @@ int main()
     cout<<student.first<<" "<<student.second.first<<" "<<student.second.second<<endl;
 
     return 0;
+
 }
